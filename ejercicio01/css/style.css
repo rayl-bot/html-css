@@ -1,0 +1,8 @@
+body{
+    background-color:lightblue;
+}
+
+h1, h2{
+    font-style: italic;
+    font-family: "Georgia", Times, serif;
+}
